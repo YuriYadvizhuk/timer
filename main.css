@@ -83,8 +83,8 @@ li span {
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
-  width: 100%; 
-  height: auto;
+/*  width: 100%; 
+  height: auto;*/
   z-index: -100;
 }
 /*.ssoundcloud {
