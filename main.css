@@ -94,14 +94,9 @@ li span {
   -moz-transform: translateX(-50%) translateY(-50%);
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  background: url(QEI6EEQHXDw.jpg) no-repeat;
 }
-/*.ssoundcloud {
-  margin-top: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
-  }*/
-/*#ffd600*/
+
+
 @media all and (max-width: 768px) {
   h1 {
     font-size: 1.5rem;
