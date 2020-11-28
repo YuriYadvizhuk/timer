@@ -79,10 +79,6 @@ li span {
 
 #video-background {
   position: fixed;
-/*  right: 0; 
-  bottom: 0;
-*/
- 
   top: 50%;
   left: 50%;
   min-width: 100%;
